@@ -15,5 +15,15 @@
             Id = id;
             Name = name;
         }
+        
+        public void AddSeller(Seller sr)
+        {
+            Sellers.Add(sr);
+        }
+
+        public decimal TotalSales(DateTime initial, DateTime final)
+        {
+            return Sellers.Sum(seller => seller.TotalSales(initial, final));
+        }
     }
 }

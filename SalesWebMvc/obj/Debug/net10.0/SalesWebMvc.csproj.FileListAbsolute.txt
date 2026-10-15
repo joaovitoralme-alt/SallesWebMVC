@@ -323,7 +323,6 @@ C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net1
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\SalesWeb.4E83D57B.Up2Date
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\SalesWebMvc.dll
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\refint\SalesWebMvc.dll
@@ -332,3 +331,5 @@ C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net1
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\ref\SalesWebMvc.dll
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\obj\Debug\net10.0\compressed\1es5hulubz-{0}-jfwgvyuogm-jfwgvyuogm.gz

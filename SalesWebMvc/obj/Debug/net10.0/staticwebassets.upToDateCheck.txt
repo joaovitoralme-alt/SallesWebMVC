@@ -61,6 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\bootstrap\dist\css\bootstrap-pulse.css
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\css\site.css
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\favicon.ico
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\js\site.js
@@ -123,3 +124,4 @@ C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\lib\jq
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\08121123186\Desktop\Aprendizado\SallesWebMVC\SalesWebMvc\wwwroot\lib\bootstrap\dist\css\bootstrap-pulse.css

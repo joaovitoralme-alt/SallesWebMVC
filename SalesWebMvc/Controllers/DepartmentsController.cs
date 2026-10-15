@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using SalesWebMvc.Data;
+using Microsoft.EntityFrameworkCore;
+using SalesWebMvc.Context;
 using SalesWebMvc.Models;
 
 namespace SalesWebMvc.Controllers
@@ -105,14 +106,14 @@ namespace SalesWebMvc.Controllers
                 return View(department);
             }
 
-            var departmentDb = _context.Departments.Find(id);
+            var departmentDb = _context.Departments.FirstOrDefault(p => p.Id == id);
             if (department == null)
             {
                 return NotFound();
             }
             departmentDb.Name = department.Name;
 
-
+            _context.Remove(department);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
